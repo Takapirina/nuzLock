@@ -1,0 +1,478 @@
+{
+  "905": {
+    "nome": "enamorus-incarnate",
+    "tipo": [
+      "fairy",
+      "flying"
+    ],
+    "abilita": [
+      {
+        "nome": "cute-charm",
+        "rarita": "comune"
+      },
+      {
+        "nome": "contrary",
+        "rarita": "nascosta"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "fly",
+        "tipo": "flying",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "body-slam",
+        "tipo": "normal",
+        "power": 85,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "take-down",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "hyper-beam",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "psychic",
+        "tipo": "psychic",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "agility",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "scary-face",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sludge-bomb",
+        "tipo": "poison",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "outrage",
+        "tipo": "dragon",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "twister",
+        "tipo": "dragon",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "rain-dance",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sunny-day",
+        "tipo": "fire",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "psych-up",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "uproar",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "torment",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "flatter",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "taunt",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "superpower",
+        "tipo": "fighting",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "imprison",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "astonish",
+        "tipo": "ghost",
+        "power": 30,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "weather-ball",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "extrasensory",
+        "tipo": "psychic",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "iron-defense",
+        "tipo": "steel",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "calm-mind",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "healing-wish",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tailwind",
+        "tipo": "flying",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "focus-blast",
+        "tipo": "fighting",
+        "power": 120,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "earth-power",
+        "tipo": "ground",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "giga-impact",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "zen-headbutt",
+        "tipo": "psychic",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "iron-head",
+        "tipo": "steel",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "grass-knot",
+        "tipo": "grass",
+        "power": null,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "disarming-voice",
+        "tipo": "fairy",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "draining-kiss",
+        "tipo": "fairy",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "grassy-terrain",
+        "tipo": "grass",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "misty-terrain",
+        "tipo": "fairy",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "play-rough",
+        "tipo": "fairy",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "fairy-wind",
+        "tipo": "fairy",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "moonblast",
+        "tipo": "fairy",
+        "power": 95,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "mystical-fire",
+        "tipo": "fire",
+        "power": 75,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "dazzling-gleam",
+        "tipo": "fairy",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "misty-explosion",
+        "tipo": "fairy",
+        "power": 100,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "springtide-storm",
+        "tipo": "fairy",
+        "power": 100,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tera-blast",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "special"
+      },
+      null
+    ],
+    "immagine": "/src/assets/sprite/pokemon/905.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/905.png"
+  }
+}

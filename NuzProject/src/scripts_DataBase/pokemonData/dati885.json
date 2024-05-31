@@ -1,0 +1,282 @@
+{
+  "885": {
+    "nome": "dreepy",
+    "tipo": [
+      "dragon",
+      "ghost"
+    ],
+    "abilita": [
+      {
+        "nome": "clear-body",
+        "rarita": "comune"
+      },
+      {
+        "nome": "infiltrator",
+        "rarita": "comune"
+      },
+      {
+        "nome": "cursed-body",
+        "rarita": "nascosta"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "bite",
+        "tipo": "dark",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "disable",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "thunder-wave",
+        "tipo": "electric",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "quick-attack",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "double-team",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "confuse-ray",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "swift",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "snore",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "curse",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "attract",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "baton-pass",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "helping-hand",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "grudge",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "astonish",
+        "tipo": "ghost",
+        "power": 30,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "sucker-punch",
+        "tipo": "dark",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "draco-meteor",
+        "tipo": "dragon",
+        "power": 130,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "round",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "dragon-tail",
+        "tipo": "dragon",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "infestation",
+        "tipo": "bug",
+        "power": 20,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tera-blast",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "special"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/885.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/885.png"
+  }
+}

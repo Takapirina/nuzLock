@@ -1,0 +1,694 @@
+{
+  "679": {
+    "nome": "honedge",
+    "tipo": [
+      "steel",
+      "ghost"
+    ],
+    "abilita": [
+      {
+        "nome": "no-guard",
+        "rarita": "comune"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "swords-dance",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "cut",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "tackle",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "toxic",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "screech",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "double-team",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "reflect",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "rock-slide",
+        "tipo": "rock",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "slash",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "snore",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "reversal",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "spite",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "destiny-bond",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "false-swipe",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "swagger",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "fury-cutter",
+        "tipo": "bug",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "attract",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "return",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "frustration",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "pursuit",
+        "tipo": "dark",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "hidden-power",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "rain-dance",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "rock-smash",
+        "tipo": "fighting",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "brick-break",
+        "tipo": "fighting",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "secret-power",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "metal-sound",
+        "tipo": "steel",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "aerial-ace",
+        "tipo": "flying",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "iron-defense",
+        "tipo": "steel",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "block",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "shock-wave",
+        "tipo": "electric",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "gyro-ball",
+        "tipo": "steel",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "close-combat",
+        "tipo": "fighting",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "power-trick",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "magnet-rise",
+        "tipo": "electric",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "night-slash",
+        "tipo": "dark",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "shadow-claw",
+        "tipo": "ghost",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "shadow-sneak",
+        "tipo": "ghost",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "psycho-cut",
+        "tipo": "psychic",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "flash-cannon",
+        "tipo": "steel",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "iron-head",
+        "tipo": "steel",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "wide-guard",
+        "tipo": "rock",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "autotomize",
+        "tipo": "steel",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "after-you",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "round",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "retaliate",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "sacred-sword",
+        "tipo": "fighting",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "confide",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "solar-blade",
+        "tipo": "grass",
+        "power": 125,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "laser-focus",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "brutal-swing",
+        "tipo": "dark",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "steel-beam",
+        "tipo": "steel",
+        "power": 140,
+        "classe": "special"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/679.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/679.png"
+  }
+}

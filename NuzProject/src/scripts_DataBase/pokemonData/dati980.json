@@ -1,0 +1,549 @@
+{
+  "980": {
+    "nome": "clodsire",
+    "tipo": [
+      "poison",
+      "ground"
+    ],
+    "abilita": [
+      {
+        "nome": "poison-point",
+        "rarita": "comune"
+      },
+      {
+        "nome": "water-absorb",
+        "rarita": "comune"
+      },
+      {
+        "nome": "unaware",
+        "rarita": "nascosta"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "slam",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "body-slam",
+        "tipo": "normal",
+        "power": 85,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "take-down",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "double-edge",
+        "tipo": "normal",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tail-whip",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "poison-sting",
+        "tipo": "poison",
+        "power": 15,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "hydro-pump",
+        "tipo": "water",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "surf",
+        "tipo": "water",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "hyper-beam",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "low-kick",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "earthquake",
+        "tipo": "ground",
+        "power": 100,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "dig",
+        "tipo": "ground",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "toxic",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "haze",
+        "tipo": "ice",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "waterfall",
+        "tipo": "water",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "amnesia",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "rock-slide",
+        "tipo": "rock",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "curse",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sludge-bomb",
+        "tipo": "poison",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "mud-slap",
+        "tipo": "ground",
+        "power": 20,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "spikes",
+        "tipo": "ground",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sandstorm",
+        "tipo": "rock",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "megahorn",
+        "tipo": "bug",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "rain-dance",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "helping-hand",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "yawn",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "rock-tomb",
+        "tipo": "rock",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "muddy-water",
+        "tipo": "water",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "mud-shot",
+        "tipo": "ground",
+        "power": 55,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "poison-tail",
+        "tipo": "poison",
+        "power": 50,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "water-pulse",
+        "tipo": "water",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "toxic-spikes",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "poison-jab",
+        "tipo": "poison",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "earth-power",
+        "tipo": "ground",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "giga-impact",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "zen-headbutt",
+        "tipo": "psychic",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "gunk-shot",
+        "tipo": "poison",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "iron-head",
+        "tipo": "steel",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "stone-edge",
+        "tipo": "rock",
+        "power": 100,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "stealth-rock",
+        "tipo": "rock",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "venoshock",
+        "tipo": "poison",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sludge-wave",
+        "tipo": "poison",
+        "power": 95,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "heavy-slam",
+        "tipo": "steel",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "acid-spray",
+        "tipo": "poison",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "bulldoze",
+        "tipo": "ground",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "high-horsepower",
+        "tipo": "ground",
+        "power": 95,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "stomping-tantrum",
+        "tipo": "ground",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "liquidation",
+        "tipo": "water",
+        "power": 85,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "body-press",
+        "tipo": "fighting",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tera-blast",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "trailblaze",
+        "tipo": "grass",
+        "power": 50,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "chilling-water",
+        "tipo": "water",
+        "power": 50,
+        "classe": "special"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/980.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/980.png"
+  }
+}

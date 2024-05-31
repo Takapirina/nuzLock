@@ -1,0 +1,604 @@
+{
+  "871": {
+    "nome": "pincurchin",
+    "tipo": [
+      "electric",
+      ""
+    ],
+    "abilita": [
+      {
+        "nome": "lightning-rod",
+        "rarita": "comune"
+      },
+      {
+        "nome": "electric-surge",
+        "rarita": "nascosta"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "fury-attack",
+        "tipo": "normal",
+        "power": 15,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "body-slam",
+        "tipo": "normal",
+        "power": 85,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "take-down",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "pin-missile",
+        "tipo": "bug",
+        "power": 25,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "water-gun",
+        "tipo": "water",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "hydro-pump",
+        "tipo": "water",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "surf",
+        "tipo": "water",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "bubble-beam",
+        "tipo": "water",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "hyper-beam",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "peck",
+        "tipo": "flying",
+        "power": 35,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "thunder-shock",
+        "tipo": "electric",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "thunderbolt",
+        "tipo": "electric",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "thunder-wave",
+        "tipo": "electric",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "thunder",
+        "tipo": "electric",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "recover",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "self-destruct",
+        "tipo": "normal",
+        "power": 200,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "swift",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "snore",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "curse",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "reversal",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "spikes",
+        "tipo": "ground",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "spark",
+        "tipo": "electric",
+        "power": 65,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "attract",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "pain-split",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "rain-dance",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "memento",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "charge",
+        "tipo": "electric",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "muddy-water",
+        "tipo": "water",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "brine",
+        "tipo": "water",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "acupressure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "payback",
+        "tipo": "dark",
+        "power": 50,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "assurance",
+        "tipo": "dark",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "sucker-punch",
+        "tipo": "dark",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "toxic-spikes",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "poison-jab",
+        "tipo": "poison",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "giga-impact",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "discharge",
+        "tipo": "electric",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "charge-beam",
+        "tipo": "electric",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "venoshock",
+        "tipo": "poison",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "electro-ball",
+        "tipo": "electric",
+        "power": null,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "round",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "scald",
+        "tipo": "water",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "hex",
+        "tipo": "ghost",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "electroweb",
+        "tipo": "electric",
+        "power": 55,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "wild-charge",
+        "tipo": "electric",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "venom-drench",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "electric-terrain",
+        "tipo": "electric",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "throat-chop",
+        "tipo": "dark",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "liquidation",
+        "tipo": "water",
+        "power": 85,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "zing-zap",
+        "tipo": "electric",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "rising-voltage",
+        "tipo": "electric",
+        "power": 70,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tera-blast",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "chilling-water",
+        "tipo": "water",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "supercell-slam",
+        "tipo": "electric",
+        "power": 100,
+        "classe": "physical"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/871.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/871.png"
+  }
+}

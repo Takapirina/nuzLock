@@ -1,0 +1,450 @@
+{
+  "771": {
+    "nome": "pyukumuku",
+    "tipo": [
+      "water",
+      ""
+    ],
+    "abilita": [
+      {
+        "nome": "innards-out",
+        "rarita": "comune"
+      },
+      {
+        "nome": "unaware",
+        "rarita": "nascosta"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "counter",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "toxic",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "screech",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "double-team",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "recover",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "harden",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "light-screen",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "reflect",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "bide",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "curse",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "spite",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "swagger",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "attract",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "safeguard",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "pain-split",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "baton-pass",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "rain-dance",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "mirror-coat",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "psych-up",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "hail",
+        "tipo": "ice",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "memento",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "taunt",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "helping-hand",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "recycle",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "mud-sport",
+        "tipo": "ground",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "tickle",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "block",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "water-sport",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "gastro-acid",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "soak",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "quash",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "bestow",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "confide",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "venom-drench",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield"
+        ],
+        "nome": "purify",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/771.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/771.png"
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "873": {
+    "nome": "frosmoth",
+    "tipo": [
+      "ice",
+      "bug"
+    ],
+    "abilita": [
+      {
+        "nome": "shield-dust",
+        "rarita": "comune"
+      },
+      {
+        "nome": "ice-scales",
+        "rarita": "nascosta"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "take-down",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "mist",
+        "tipo": "ice",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "ice-beam",
+        "tipo": "ice",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "blizzard",
+        "tipo": "ice",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "aurora-beam",
+        "tipo": "ice",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "hyper-beam",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "stun-spore",
+        "tipo": "grass",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "light-screen",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "reflect",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "swift",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "leech-life",
+        "tipo": "bug",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "snore",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "powder-snow",
+        "tipo": "ice",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "icy-wind",
+        "tipo": "ice",
+        "power": 55,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "giga-drain",
+        "tipo": "grass",
+        "power": 75,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "attract",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "safeguard",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "hail",
+        "tipo": "ice",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "helping-hand",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "imprison",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "feather-dance",
+        "tipo": "flying",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "weather-ball",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "icicle-spear",
+        "tipo": "ice",
+        "power": 25,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "calm-mind",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "tailwind",
+        "tipo": "flying",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "u-turn",
+        "tipo": "bug",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "air-slash",
+        "tipo": "flying",
+        "power": 75,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "bug-buzz",
+        "tipo": "bug",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "giga-impact",
+        "tipo": "normal",
+        "power": 150,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "avalanche",
+        "tipo": "ice",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "defog",
+        "tipo": "flying",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "bug-bite",
+        "tipo": "bug",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "wide-guard",
+        "tipo": "rock",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "quiver-dance",
+        "tipo": "bug",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "round",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "acrobatics",
+        "tipo": "flying",
+        "power": 55,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "struggle-bug",
+        "tipo": "bug",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "hurricane",
+        "tipo": "flying",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "play-rough",
+        "tipo": "fairy",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "dazzling-gleam",
+        "tipo": "fairy",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "infestation",
+        "tipo": "bug",
+        "power": 20,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "lunge",
+        "tipo": "bug",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "aurora-veil",
+        "tipo": "ice",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "skitter-smack",
+        "tipo": "bug",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "triple-axel",
+        "tipo": "ice",
+        "power": 20,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "dual-wingbeat",
+        "tipo": "flying",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tera-blast",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "ice-spinner",
+        "tipo": "ice",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "snowscape",
+        "tipo": "ice",
+        "power": 0,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "pounce",
+        "tipo": "bug",
+        "power": 50,
+        "classe": "physical"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/873.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/873.png"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "824": {
+    "nome": "blipbug",
+    "tipo": [
+      "bug",
+      ""
+    ],
+    "abilita": [
+      {
+        "nome": "swarm",
+        "rarita": "comune"
+      },
+      {
+        "nome": "compound-eyes",
+        "rarita": "comune"
+      },
+      {
+        "nome": "telepathy",
+        "rarita": "nascosta"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "supersonic",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "recover",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "struggle-bug",
+        "tipo": "bug",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "sticky-web",
+        "tipo": "bug",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sword-shield"
+        ],
+        "nome": "infestation",
+        "tipo": "bug",
+        "power": 20,
+        "classe": "special"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/824.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/824.png"
+  }
+}

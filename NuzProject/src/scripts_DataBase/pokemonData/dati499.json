@@ -1,0 +1,1177 @@
+{
+  "499": {
+    "nome": "pignite",
+    "tipo": [
+      "fire",
+      "fighting"
+    ],
+    "abilita": [
+      {
+        "nome": "blaze",
+        "rarita": "comune"
+      },
+      {
+        "nome": "thick-fat",
+        "rarita": "nascosta"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "fire-punch",
+        "tipo": "fire",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "thunder-punch",
+        "tipo": "electric",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "tackle",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "body-slam",
+        "tipo": "normal",
+        "power": 85,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "take-down",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "thrash",
+        "tipo": "normal",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "double-edge",
+        "tipo": "normal",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "tail-whip",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "roar",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "ember",
+        "tipo": "fire",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "flamethrower",
+        "tipo": "fire",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "low-kick",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "strength",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "solar-beam",
+        "tipo": "grass",
+        "power": 120,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "fire-spin",
+        "tipo": "fire",
+        "power": 35,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "dig",
+        "tipo": "ground",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "toxic",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "double-team",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "defense-curl",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "smog",
+        "tipo": "poison",
+        "power": 30,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "fire-blast",
+        "tipo": "fire",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "rock-slide",
+        "tipo": "rock",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "snore",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "curse",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "reversal",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "scary-face",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "mud-slap",
+        "tipo": "ground",
+        "power": 20,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "rollout",
+        "tipo": "rock",
+        "power": 30,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "swagger",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "attract",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "return",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "frustration",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "iron-tail",
+        "tipo": "steel",
+        "power": 100,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "hidden-power",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "sunny-day",
+        "tipo": "fire",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "rock-smash",
+        "tipo": "fighting",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "heat-wave",
+        "tipo": "fire",
+        "power": 95,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "will-o-wisp",
+        "tipo": "fire",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "focus-punch",
+        "tipo": "fighting",
+        "power": 150,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "taunt",
+        "tipo": "dark",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "helping-hand",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "superpower",
+        "tipo": "fighting",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "brick-break",
+        "tipo": "fighting",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "yawn",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "knock-off",
+        "tipo": "dark",
+        "power": 65,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "endeavor",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "secret-power",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "arm-thrust",
+        "tipo": "fighting",
+        "power": 15,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "overheat",
+        "tipo": "fire",
+        "power": 130,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "odor-sleuth",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "rock-tomb",
+        "tipo": "rock",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "bulk-up",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "covet",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "gyro-ball",
+        "tipo": "steel",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "close-combat",
+        "tipo": "fighting",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "assurance",
+        "tipo": "dark",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "fling",
+        "tipo": "dark",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "sucker-punch",
+        "tipo": "dark",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "flare-blitz",
+        "tipo": "fire",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "poison-jab",
+        "tipo": "poison",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "drain-punch",
+        "tipo": "fighting",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "focus-blast",
+        "tipo": "fighting",
+        "power": 120,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "zen-headbutt",
+        "tipo": "psychic",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "stone-edge",
+        "tipo": "rock",
+        "power": 100,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "grass-knot",
+        "tipo": "grass",
+        "power": null,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "head-smash",
+        "tipo": "rock",
+        "power": 150,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "heavy-slam",
+        "tipo": "steel",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "flame-charge",
+        "tipo": "fire",
+        "power": 50,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "low-sweep",
+        "tipo": "fighting",
+        "power": 65,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "round",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "echoed-voice",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "incinerate",
+        "tipo": "fire",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "fire-pledge",
+        "tipo": "fire",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "bulldoze",
+        "tipo": "ground",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "work-up",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "wild-charge",
+        "tipo": "electric",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "heat-crash",
+        "tipo": "fire",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "confide",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "power-up-punch",
+        "tipo": "fighting",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "high-horsepower",
+        "tipo": "ground",
+        "power": 95,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "stomping-tantrum",
+        "tipo": "ground",
+        "power": 75,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "coaching",
+        "tipo": "fighting",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tera-blast",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "trailblaze",
+        "tipo": "grass",
+        "power": 50,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "temper-flare",
+        "tipo": "fire",
+        "power": 75,
+        "classe": "physical"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/499.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/499.png"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "14": {
+    "nome": "kakuna",
+    "tipo": [
+      "bug",
+      "poison"
+    ],
+    "abilita": [
+      {
+        "nome": "shed-skin",
+        "rarita": "comune"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "heartgold-soulsilver"
+        ],
+        "nome": "string-shot",
+        "tipo": "bug",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "harden",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "platinum",
+          "heartgold-soulsilver",
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "iron-defense",
+        "tipo": "steel",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "heartgold-soulsilver",
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "bug-bite",
+        "tipo": "bug",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "electroweb",
+        "tipo": "electric",
+        "power": 55,
+        "classe": "special"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/14.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/14.png"
+  }
+}

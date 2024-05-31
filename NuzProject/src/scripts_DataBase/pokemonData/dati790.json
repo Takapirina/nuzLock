@@ -1,0 +1,51 @@
+{
+  "790": {
+    "nome": "cosmoem",
+    "tipo": [
+      "psychic",
+      ""
+    ],
+    "abilita": [
+      {
+        "nome": "sturdy",
+        "rarita": "comune"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      },
+      {
+        "nome": "",
+        "rarita": "comune"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "teleport",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "sword-shield",
+          "scarlet-violet"
+        ],
+        "nome": "cosmic-power",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/790.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/790.png"
+  }
+}

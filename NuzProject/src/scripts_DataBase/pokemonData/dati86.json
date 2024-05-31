@@ -1,0 +1,1582 @@
+{
+  "86": {
+    "nome": "seel",
+    "tipo": [
+      "water",
+      ""
+    ],
+    "abilita": [
+      {
+        "nome": "thick-fat",
+        "rarita": "comune"
+      },
+      {
+        "nome": "hydration",
+        "rarita": "comune"
+      },
+      {
+        "nome": "ice-body",
+        "rarita": "nascosta"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "lets-go-pikachu-lets-go-eevee"
+        ],
+        "nome": "pay-day",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "slam",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "headbutt",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "horn-drill",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "emerald",
+          "firered-leafgreen",
+          "xd",
+          "scarlet-violet"
+        ],
+        "nome": "body-slam",
+        "tipo": "normal",
+        "power": 85,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "take-down",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "emerald",
+          "firered-leafgreen",
+          "xd",
+          "lets-go-pikachu-lets-go-eevee",
+          "scarlet-violet"
+        ],
+        "nome": "double-edge",
+        "tipo": "normal",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "growl",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "disable",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "water-gun",
+        "tipo": "water",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "hydro-pump",
+        "tipo": "water",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "surf",
+        "tipo": "water",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "ice-beam",
+        "tipo": "ice",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "blizzard",
+        "tipo": "ice",
+        "power": 110,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow"
+        ],
+        "nome": "bubble-beam",
+        "tipo": "water",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "aurora-beam",
+        "tipo": "ice",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal"
+        ],
+        "nome": "peck",
+        "tipo": "flying",
+        "power": 35,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow"
+        ],
+        "nome": "strength",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee"
+        ],
+        "nome": "toxic",
+        "tipo": "poison",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow"
+        ],
+        "nome": "rage",
+        "tipo": "normal",
+        "power": 20,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "emerald",
+          "firered-leafgreen",
+          "xd"
+        ],
+        "nome": "mimic",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "double-team",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "haze",
+        "tipo": "ice",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow"
+        ],
+        "nome": "bide",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "lick",
+        "tipo": "ghost",
+        "power": 30,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "waterfall",
+        "tipo": "water",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow"
+        ],
+        "nome": "skull-bash",
+        "tipo": "normal",
+        "power": 130,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "rest",
+        "tipo": "psychic",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "red-blue",
+          "yellow",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "substitute",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "thief",
+        "tipo": "dark",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "emerald",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "snore",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "scarlet-violet"
+        ],
+        "nome": "curse",
+        "tipo": "ghost",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "protect",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "perish-song",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "icy-wind",
+        "tipo": "ice",
+        "power": 55,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "emerald",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "endure",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "charm",
+        "tipo": "fairy",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "emerald",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "swagger",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "attract",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "emerald",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "sleep-talk",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "return",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "frustration",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "safeguard",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "lets-go-pikachu-lets-go-eevee"
+        ],
+        "nome": "megahorn",
+        "tipo": "bug",
+        "power": 120,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "encore",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "iron-tail",
+        "tipo": "steel",
+        "power": 100,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "hidden-power",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "rain-dance",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "heartgold-soulsilver",
+          "scarlet-violet"
+        ],
+        "nome": "whirlpool",
+        "tipo": "water",
+        "power": 35,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "fake-out",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "uproar",
+        "tipo": "normal",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "stockpile",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "spit-up",
+        "tipo": "normal",
+        "power": null,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "swallow",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl"
+        ],
+        "nome": "hail",
+        "tipo": "ice",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "facade",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "lets-go-pikachu-lets-go-eevee",
+          "scarlet-violet"
+        ],
+        "nome": "helping-hand",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "colosseum",
+          "xd",
+          "omega-ruby-alpha-sapphire"
+        ],
+        "nome": "secret-power",
+        "tipo": "normal",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "dive",
+        "tipo": "water",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "weather-ball",
+        "tipo": "normal",
+        "power": 50,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "signal-beam",
+        "tipo": "bug",
+        "power": 75,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "muddy-water",
+        "tipo": "water",
+        "power": 90,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "icicle-spear",
+        "tipo": "ice",
+        "power": 25,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "water-sport",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "water-pulse",
+        "tipo": "water",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "brine",
+        "tipo": "water",
+        "power": 65,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver"
+        ],
+        "nome": "natural-gift",
+        "tipo": "normal",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "fling",
+        "tipo": "dark",
+        "power": null,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "aqua-ring",
+        "tipo": "water",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "aqua-tail",
+        "tipo": "water",
+        "power": 90,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "avalanche",
+        "tipo": "ice",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "ice-shard",
+        "tipo": "ice",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver"
+        ],
+        "nome": "captivate",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "aqua-jet",
+        "tipo": "water",
+        "power": 40,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "entrainment",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "round",
+        "tipo": "normal",
+        "power": 60,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-white",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "echoed-voice",
+        "tipo": "normal",
+        "power": 40,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "black-2-white-2",
+          "omega-ruby-alpha-sapphire",
+          "ultra-sun-ultra-moon",
+          "lets-go-pikachu-lets-go-eevee",
+          "scarlet-violet"
+        ],
+        "nome": "drill-run",
+        "tipo": "ground",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "belch",
+        "tipo": "poison",
+        "power": 120,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon"
+        ],
+        "nome": "confide",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "scarlet-violet"
+        ],
+        "nome": "smart-strike",
+        "tipo": "steel",
+        "power": 70,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "flip-turn",
+        "tipo": "water",
+        "power": 60,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "triple-axel",
+        "tipo": "ice",
+        "power": 20,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "tera-blast",
+        "tipo": "normal",
+        "power": 80,
+        "classe": "special"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "ice-spinner",
+        "tipo": "ice",
+        "power": 80,
+        "classe": "physical"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "snowscape",
+        "tipo": "ice",
+        "power": 0,
+        "classe": "status"
+      },
+      {
+        "gioco": [
+          "scarlet-violet"
+        ],
+        "nome": "chilling-water",
+        "tipo": "water",
+        "power": 50,
+        "classe": "special"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/86.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/86.png"
+  }
+}

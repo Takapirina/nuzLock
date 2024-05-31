@@ -1,0 +1,53 @@
+{
+  "235": {
+    "nome": "smeargle",
+    "tipo": [
+      "normal",
+      ""
+    ],
+    "abilita": [
+      {
+        "nome": "own-tempo",
+        "rarita": "comune"
+      },
+      {
+        "nome": "technician",
+        "rarita": "comune"
+      },
+      {
+        "nome": "moody",
+        "rarita": "nascosta"
+      }
+    ],
+    "mosse": [
+      {
+        "gioco": [
+          "gold-silver",
+          "crystal",
+          "ruby-sapphire",
+          "emerald",
+          "firered-leafgreen",
+          "diamond-pearl",
+          "platinum",
+          "heartgold-soulsilver",
+          "black-white",
+          "colosseum",
+          "xd",
+          "black-2-white-2",
+          "x-y",
+          "omega-ruby-alpha-sapphire",
+          "sun-moon",
+          "ultra-sun-ultra-moon",
+          "brilliant-diamond-and-shining-pearl",
+          "scarlet-violet"
+        ],
+        "nome": "sketch",
+        "tipo": "normal",
+        "power": null,
+        "classe": "status"
+      }
+    ],
+    "immagine": "/src/assets/sprite/pokemon/235.png",
+    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/235.png"
+  }
+}
