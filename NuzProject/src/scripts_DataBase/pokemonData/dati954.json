@@ -1,639 +1,637 @@
 {
-  "954": {
-    "nome": "rabsca",
-    "tipo": [
-      "bug",
-      "psychic"
-    ],
-    "abilita": [
-      {
-        "nome": "synchronize",
-        "rarita": "comune"
-      },
-      {
-        "nome": "telepathy",
-        "rarita": "nascosta"
-      },
-      {
-        "nome": "",
-        "rarita": "comune"
-      }
-    ],
-    "mosse": [
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sand-attack",
-        "tipo": "ground",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "tackle",
-        "tipo": "normal",
-        "power": 40,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "take-down",
-        "tipo": "normal",
-        "power": 90,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psybeam",
-        "tipo": "psychic",
-        "power": 65,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "hyper-beam",
-        "tipo": "normal",
-        "power": 150,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "dig",
-        "tipo": "ground",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "confusion",
-        "tipo": "psychic",
-        "power": 50,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psychic",
-        "tipo": "psychic",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "confuse-ray",
-        "tipo": "ghost",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "defense-curl",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "light-screen",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "reflect",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "leech-life",
-        "tipo": "bug",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "rest",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "substitute",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "thief",
-        "tipo": "dark",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "protect",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sludge-bomb",
-        "tipo": "poison",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "mud-slap",
-        "tipo": "ground",
-        "power": 20,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sandstorm",
-        "tipo": "rock",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "endure",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "rollout",
-        "tipo": "rock",
-        "power": 30,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sleep-talk",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "safeguard",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "rain-dance",
-        "tipo": "water",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sunny-day",
-        "tipo": "fire",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psych-up",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "shadow-ball",
-        "tipo": "ghost",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "future-sight",
-        "tipo": "psychic",
-        "power": 120,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "facade",
-        "tipo": "normal",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "trick",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "skill-swap",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "imprison",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "weather-ball",
-        "tipo": "normal",
-        "power": 50,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "rock-tomb",
-        "tipo": "rock",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "extrasensory",
-        "tipo": "psychic",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "iron-defense",
-        "tipo": "steel",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "mud-shot",
-        "tipo": "ground",
-        "power": 55,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "calm-mind",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "gravity",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "fling",
-        "tipo": "dark",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "power-swap",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "guard-swap",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "x-scissor",
-        "tipo": "bug",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "bug-buzz",
-        "tipo": "bug",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "power-gem",
-        "tipo": "rock",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "energy-ball",
-        "tipo": "grass",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "earth-power",
-        "tipo": "ground",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "giga-impact",
-        "tipo": "normal",
-        "power": 150,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "zen-headbutt",
-        "tipo": "psychic",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "trick-room",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "gunk-shot",
-        "tipo": "poison",
-        "power": 120,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "bug-bite",
-        "tipo": "bug",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psyshock",
-        "tipo": "psychic",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "electro-ball",
-        "tipo": "electric",
-        "power": null,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "stored-power",
-        "tipo": "psychic",
-        "power": 20,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "struggle-bug",
-        "tipo": "bug",
-        "power": 50,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "dazzling-gleam",
-        "tipo": "fairy",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psychic-terrain",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "lunge",
-        "tipo": "bug",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "speed-swap",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "expanding-force",
-        "tipo": "psychic",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "skitter-smack",
-        "tipo": "bug",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "poltergeist",
-        "tipo": "ghost",
-        "power": 110,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "tera-blast",
-        "tipo": "normal",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "revival-blessing",
-        "tipo": "normal",
-        "power": 0,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "pounce",
-        "tipo": "bug",
-        "power": 50,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psychic-noise",
-        "tipo": "psychic",
-        "power": 75,
-        "classe": "special"
-      }
-    ],
-    "immagine": "/src/assets/sprite/pokemon/954.png",
-    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/954.png"
-  }
+  "nome": "rabsca",
+  "tipo": [
+    "bug",
+    "psychic"
+  ],
+  "abilita": [
+    {
+      "nome": "synchronize",
+      "rarita": "comune"
+    },
+    {
+      "nome": "telepathy",
+      "rarita": "nascosta"
+    },
+    {
+      "nome": "",
+      "rarita": "comune"
+    }
+  ],
+  "mosse": [
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sand-attack",
+      "tipo": "ground",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "tackle",
+      "tipo": "normal",
+      "power": 40,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "take-down",
+      "tipo": "normal",
+      "power": 90,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psybeam",
+      "tipo": "psychic",
+      "power": 65,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "hyper-beam",
+      "tipo": "normal",
+      "power": 150,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "dig",
+      "tipo": "ground",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "confusion",
+      "tipo": "psychic",
+      "power": 50,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psychic",
+      "tipo": "psychic",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "confuse-ray",
+      "tipo": "ghost",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "defense-curl",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "light-screen",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "reflect",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "leech-life",
+      "tipo": "bug",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "rest",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "substitute",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "thief",
+      "tipo": "dark",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "protect",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sludge-bomb",
+      "tipo": "poison",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "mud-slap",
+      "tipo": "ground",
+      "power": 20,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sandstorm",
+      "tipo": "rock",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "endure",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "rollout",
+      "tipo": "rock",
+      "power": 30,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sleep-talk",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "safeguard",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "rain-dance",
+      "tipo": "water",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sunny-day",
+      "tipo": "fire",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psych-up",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "shadow-ball",
+      "tipo": "ghost",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "future-sight",
+      "tipo": "psychic",
+      "power": 120,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "facade",
+      "tipo": "normal",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "trick",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "skill-swap",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "imprison",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "weather-ball",
+      "tipo": "normal",
+      "power": 50,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "rock-tomb",
+      "tipo": "rock",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "extrasensory",
+      "tipo": "psychic",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "iron-defense",
+      "tipo": "steel",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "mud-shot",
+      "tipo": "ground",
+      "power": 55,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "calm-mind",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "gravity",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "fling",
+      "tipo": "dark",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "power-swap",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "guard-swap",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "x-scissor",
+      "tipo": "bug",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "bug-buzz",
+      "tipo": "bug",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "power-gem",
+      "tipo": "rock",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "energy-ball",
+      "tipo": "grass",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "earth-power",
+      "tipo": "ground",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "giga-impact",
+      "tipo": "normal",
+      "power": 150,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "zen-headbutt",
+      "tipo": "psychic",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "trick-room",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "gunk-shot",
+      "tipo": "poison",
+      "power": 120,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "bug-bite",
+      "tipo": "bug",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psyshock",
+      "tipo": "psychic",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "electro-ball",
+      "tipo": "electric",
+      "power": null,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "stored-power",
+      "tipo": "psychic",
+      "power": 20,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "struggle-bug",
+      "tipo": "bug",
+      "power": 50,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "dazzling-gleam",
+      "tipo": "fairy",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psychic-terrain",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "lunge",
+      "tipo": "bug",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "speed-swap",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "expanding-force",
+      "tipo": "psychic",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "skitter-smack",
+      "tipo": "bug",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "poltergeist",
+      "tipo": "ghost",
+      "power": 110,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "tera-blast",
+      "tipo": "normal",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "revival-blessing",
+      "tipo": "normal",
+      "power": 0,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "pounce",
+      "tipo": "bug",
+      "power": 50,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psychic-noise",
+      "tipo": "psychic",
+      "power": 75,
+      "classe": "special"
+    }
+  ],
+  "immagine": "/src/assets/sprite/pokemon/954.png",
+  "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/954.png"
 }

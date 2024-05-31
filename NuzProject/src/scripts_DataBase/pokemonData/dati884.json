@@ -1,614 +1,612 @@
 {
-  "884": {
-    "nome": "duraludon",
-    "tipo": [
-      "steel",
-      "dragon"
-    ],
-    "abilita": [
-      {
-        "nome": "light-metal",
-        "rarita": "comune"
-      },
-      {
-        "nome": "heavy-metal",
-        "rarita": "comune"
-      },
-      {
-        "nome": "stalwart",
-        "rarita": "nascosta"
-      }
-    ],
-    "mosse": [
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "swords-dance",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "body-slam",
-        "tipo": "normal",
-        "power": 85,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "take-down",
-        "tipo": "normal",
-        "power": 90,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "double-edge",
-        "tipo": "normal",
-        "power": 120,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "leer",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "roar",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "hyper-beam",
-        "tipo": "normal",
-        "power": 150,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "solar-beam",
-        "tipo": "grass",
-        "power": 120,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "thunderbolt",
-        "tipo": "electric",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "thunder-wave",
-        "tipo": "electric",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "thunder",
-        "tipo": "electric",
-        "power": 110,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "screech",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "light-screen",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "reflect",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "focus-energy",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "rest",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "rock-slide",
-        "tipo": "rock",
-        "power": 75,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "slash",
-        "tipo": "normal",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "substitute",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "snore",
-        "tipo": "normal",
-        "power": 50,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "protect",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "scary-face",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "outrage",
-        "tipo": "dragon",
-        "power": 120,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "endure",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "attract",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "sleep-talk",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "metal-claw",
-        "tipo": "steel",
-        "power": 50,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "mirror-coat",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "rock-smash",
-        "tipo": "fighting",
-        "power": 40,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "facade",
-        "tipo": "normal",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "brick-break",
-        "tipo": "fighting",
-        "power": 75,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "rock-tomb",
-        "tipo": "rock",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "metal-sound",
-        "tipo": "steel",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "iron-defense",
-        "tipo": "steel",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "dragon-claw",
-        "tipo": "dragon",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "gyro-ball",
-        "tipo": "steel",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "metal-burst",
-        "tipo": "steel",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "dark-pulse",
-        "tipo": "dark",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "night-slash",
-        "tipo": "dark",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "dragon-pulse",
-        "tipo": "dragon",
-        "power": 85,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "giga-impact",
-        "tipo": "normal",
-        "power": 150,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "flash-cannon",
-        "tipo": "steel",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "draco-meteor",
-        "tipo": "dragon",
-        "power": 130,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "iron-head",
-        "tipo": "steel",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "stone-edge",
-        "tipo": "rock",
-        "power": 100,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "stealth-rock",
-        "tipo": "rock",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "hone-claws",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "heavy-slam",
-        "tipo": "steel",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "foul-play",
-        "tipo": "dark",
-        "power": 95,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "round",
-        "tipo": "normal",
-        "power": 60,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "dragon-tail",
-        "tipo": "dragon",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "snarl",
-        "tipo": "dark",
-        "power": 55,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "laser-focus",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "stomping-tantrum",
-        "tipo": "ground",
-        "power": 75,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "body-press",
-        "tipo": "fighting",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "breaking-swipe",
-        "tipo": "dragon",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "steel-beam",
-        "tipo": "steel",
-        "power": 140,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "steel-roller",
-        "tipo": "steel",
-        "power": 130,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "tera-blast",
-        "tipo": "normal",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "dragon-cheer",
-        "tipo": "dragon",
-        "power": 0,
-        "classe": "status"
-      }
-    ],
-    "immagine": "/src/assets/sprite/pokemon/884.png",
-    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/884.png"
-  }
+  "nome": "duraludon",
+  "tipo": [
+    "steel",
+    "dragon"
+  ],
+  "abilita": [
+    {
+      "nome": "light-metal",
+      "rarita": "comune"
+    },
+    {
+      "nome": "heavy-metal",
+      "rarita": "comune"
+    },
+    {
+      "nome": "stalwart",
+      "rarita": "nascosta"
+    }
+  ],
+  "mosse": [
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "swords-dance",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "body-slam",
+      "tipo": "normal",
+      "power": 85,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "take-down",
+      "tipo": "normal",
+      "power": 90,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "double-edge",
+      "tipo": "normal",
+      "power": 120,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "leer",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "roar",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "hyper-beam",
+      "tipo": "normal",
+      "power": 150,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "solar-beam",
+      "tipo": "grass",
+      "power": 120,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "thunderbolt",
+      "tipo": "electric",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "thunder-wave",
+      "tipo": "electric",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "thunder",
+      "tipo": "electric",
+      "power": 110,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "screech",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "light-screen",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "reflect",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "focus-energy",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "rest",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "rock-slide",
+      "tipo": "rock",
+      "power": 75,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "slash",
+      "tipo": "normal",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "substitute",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "snore",
+      "tipo": "normal",
+      "power": 50,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "protect",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "scary-face",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "outrage",
+      "tipo": "dragon",
+      "power": 120,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "endure",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "attract",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "sleep-talk",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "metal-claw",
+      "tipo": "steel",
+      "power": 50,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "mirror-coat",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "rock-smash",
+      "tipo": "fighting",
+      "power": 40,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "facade",
+      "tipo": "normal",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "brick-break",
+      "tipo": "fighting",
+      "power": 75,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "rock-tomb",
+      "tipo": "rock",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "metal-sound",
+      "tipo": "steel",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "iron-defense",
+      "tipo": "steel",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "dragon-claw",
+      "tipo": "dragon",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "gyro-ball",
+      "tipo": "steel",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "metal-burst",
+      "tipo": "steel",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "dark-pulse",
+      "tipo": "dark",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "night-slash",
+      "tipo": "dark",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "dragon-pulse",
+      "tipo": "dragon",
+      "power": 85,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "giga-impact",
+      "tipo": "normal",
+      "power": 150,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "flash-cannon",
+      "tipo": "steel",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "draco-meteor",
+      "tipo": "dragon",
+      "power": 130,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "iron-head",
+      "tipo": "steel",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "stone-edge",
+      "tipo": "rock",
+      "power": 100,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "stealth-rock",
+      "tipo": "rock",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "hone-claws",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "heavy-slam",
+      "tipo": "steel",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "foul-play",
+      "tipo": "dark",
+      "power": 95,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "round",
+      "tipo": "normal",
+      "power": 60,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "dragon-tail",
+      "tipo": "dragon",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "snarl",
+      "tipo": "dark",
+      "power": 55,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "laser-focus",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "stomping-tantrum",
+      "tipo": "ground",
+      "power": 75,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "body-press",
+      "tipo": "fighting",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "breaking-swipe",
+      "tipo": "dragon",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "steel-beam",
+      "tipo": "steel",
+      "power": 140,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "steel-roller",
+      "tipo": "steel",
+      "power": 130,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "tera-blast",
+      "tipo": "normal",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "dragon-cheer",
+      "tipo": "dragon",
+      "power": 0,
+      "classe": "status"
+    }
+  ],
+  "immagine": "/src/assets/sprite/pokemon/884.png",
+  "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/884.png"
 }

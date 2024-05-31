@@ -1,531 +1,529 @@
 {
-  "945": {
-    "nome": "grafaiai",
-    "tipo": [
-      "poison",
-      "normal"
-    ],
-    "abilita": [
-      {
-        "nome": "unburden",
-        "rarita": "comune"
-      },
-      {
-        "nome": "poison-touch",
-        "rarita": "comune"
-      },
-      {
-        "nome": "prankster",
-        "rarita": "nascosta"
-      }
-    ],
-    "mosse": [
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "scratch",
-        "tipo": "normal",
-        "power": 40,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "swords-dance",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "take-down",
-        "tipo": "normal",
-        "power": 90,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "double-edge",
-        "tipo": "normal",
-        "power": 120,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "leer",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "low-kick",
-        "tipo": "fighting",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "dig",
-        "tipo": "ground",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "toxic",
-        "tipo": "poison",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "metronome",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "fury-swipes",
-        "tipo": "normal",
-        "power": 18,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "rest",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "super-fang",
-        "tipo": "normal",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "slash",
-        "tipo": "normal",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "substitute",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "thief",
-        "tipo": "dark",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "protect",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "scary-face",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sludge-bomb",
-        "tipo": "poison",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "mud-slap",
-        "tipo": "ground",
-        "power": 20,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "endure",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sleep-talk",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "baton-pass",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "encore",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "rain-dance",
-        "tipo": "water",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sunny-day",
-        "tipo": "fire",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psych-up",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "flatter",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "facade",
-        "tipo": "normal",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "taunt",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "helping-hand",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "knock-off",
-        "tipo": "dark",
-        "power": 65,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "endeavor",
-        "tipo": "normal",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "poison-fang",
-        "tipo": "poison",
-        "power": 50,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "mud-shot",
-        "tipo": "ground",
-        "power": 55,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "poison-tail",
-        "tipo": "poison",
-        "power": 50,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "u-turn",
-        "tipo": "bug",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "fling",
-        "tipo": "dark",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "poison-jab",
-        "tipo": "poison",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "x-scissor",
-        "tipo": "bug",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "switcheroo",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "giga-impact",
-        "tipo": "normal",
-        "power": 150,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "nasty-plot",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "shadow-claw",
-        "tipo": "ghost",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "gunk-shot",
-        "tipo": "poison",
-        "power": 120,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "venoshock",
-        "tipo": "poison",
-        "power": 65,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sludge-wave",
-        "tipo": "poison",
-        "power": 95,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "low-sweep",
-        "tipo": "fighting",
-        "power": 65,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "acid-spray",
-        "tipo": "poison",
-        "power": 40,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "foul-play",
-        "tipo": "dark",
-        "power": 95,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "acrobatics",
-        "tipo": "flying",
-        "power": 55,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "throat-chop",
-        "tipo": "dark",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "skitter-smack",
-        "tipo": "bug",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "tera-blast",
-        "tipo": "normal",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "doodle",
-        "tipo": "normal",
-        "power": 0,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "pounce",
-        "tipo": "bug",
-        "power": 50,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "trailblaze",
-        "tipo": "grass",
-        "power": 50,
-        "classe": "physical"
-      }
-    ],
-    "immagine": "/src/assets/sprite/pokemon/945.png",
-    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/945.png"
-  }
+  "nome": "grafaiai",
+  "tipo": [
+    "poison",
+    "normal"
+  ],
+  "abilita": [
+    {
+      "nome": "unburden",
+      "rarita": "comune"
+    },
+    {
+      "nome": "poison-touch",
+      "rarita": "comune"
+    },
+    {
+      "nome": "prankster",
+      "rarita": "nascosta"
+    }
+  ],
+  "mosse": [
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "scratch",
+      "tipo": "normal",
+      "power": 40,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "swords-dance",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "take-down",
+      "tipo": "normal",
+      "power": 90,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "double-edge",
+      "tipo": "normal",
+      "power": 120,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "leer",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "low-kick",
+      "tipo": "fighting",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "dig",
+      "tipo": "ground",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "toxic",
+      "tipo": "poison",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "metronome",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "fury-swipes",
+      "tipo": "normal",
+      "power": 18,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "rest",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "super-fang",
+      "tipo": "normal",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "slash",
+      "tipo": "normal",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "substitute",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "thief",
+      "tipo": "dark",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "protect",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "scary-face",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sludge-bomb",
+      "tipo": "poison",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "mud-slap",
+      "tipo": "ground",
+      "power": 20,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "endure",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sleep-talk",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "baton-pass",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "encore",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "rain-dance",
+      "tipo": "water",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sunny-day",
+      "tipo": "fire",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psych-up",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "flatter",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "facade",
+      "tipo": "normal",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "taunt",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "helping-hand",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "knock-off",
+      "tipo": "dark",
+      "power": 65,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "endeavor",
+      "tipo": "normal",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "poison-fang",
+      "tipo": "poison",
+      "power": 50,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "mud-shot",
+      "tipo": "ground",
+      "power": 55,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "poison-tail",
+      "tipo": "poison",
+      "power": 50,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "u-turn",
+      "tipo": "bug",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "fling",
+      "tipo": "dark",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "poison-jab",
+      "tipo": "poison",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "x-scissor",
+      "tipo": "bug",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "switcheroo",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "giga-impact",
+      "tipo": "normal",
+      "power": 150,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "nasty-plot",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "shadow-claw",
+      "tipo": "ghost",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "gunk-shot",
+      "tipo": "poison",
+      "power": 120,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "venoshock",
+      "tipo": "poison",
+      "power": 65,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sludge-wave",
+      "tipo": "poison",
+      "power": 95,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "low-sweep",
+      "tipo": "fighting",
+      "power": 65,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "acid-spray",
+      "tipo": "poison",
+      "power": 40,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "foul-play",
+      "tipo": "dark",
+      "power": 95,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "acrobatics",
+      "tipo": "flying",
+      "power": 55,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "throat-chop",
+      "tipo": "dark",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "skitter-smack",
+      "tipo": "bug",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "tera-blast",
+      "tipo": "normal",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "doodle",
+      "tipo": "normal",
+      "power": 0,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "pounce",
+      "tipo": "bug",
+      "power": 50,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "trailblaze",
+      "tipo": "grass",
+      "power": 50,
+      "classe": "physical"
+    }
+  ],
+  "immagine": "/src/assets/sprite/pokemon/945.png",
+  "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/945.png"
 }

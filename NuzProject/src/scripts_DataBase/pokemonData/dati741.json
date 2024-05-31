@@ -1,681 +1,678 @@
 {
-  "741": {
-    "nome": "oricorio-baile",
-    "tipo": [
-      "fire",
-      "flying"
-    ],
-    "abilita": [
-      {
-        "nome": "dancer",
-        "rarita": "comune"
-      },
-      {
-        "nome": "",
-        "rarita": "comune"
-      },
-      {
-        "nome": "",
-        "rarita": "comune"
-      }
-    ],
-    "mosse": [
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "pound",
-        "tipo": "normal",
-        "power": 40,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "double-slap",
-        "tipo": "normal",
-        "power": 15,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "swords-dance",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "fly",
-        "tipo": "flying",
-        "power": 90,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "take-down",
-        "tipo": "normal",
-        "power": 90,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "growl",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "peck",
-        "tipo": "flying",
-        "power": 35,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "toxic",
-        "tipo": "poison",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "agility",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "double-team",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "mirror-move",
-        "tipo": "flying",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "swift",
-        "tipo": "normal",
-        "power": 60,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "sky-attack",
-        "tipo": "flying",
-        "power": 140,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "rest",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "substitute",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "snore",
-        "tipo": "normal",
-        "power": 50,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "reversal",
-        "tipo": "fighting",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "protect",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "icy-wind",
-        "tipo": "ice",
-        "power": 55,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "sandstorm",
-        "tipo": "rock",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "endure",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "charm",
-        "tipo": "fairy",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "swagger",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "steel-wing",
-        "tipo": "steel",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "attract",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "sleep-talk",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "return",
-        "tipo": "normal",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "frustration",
-        "tipo": "normal",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "safeguard",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "baton-pass",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "hidden-power",
-        "tipo": "normal",
-        "power": 60,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "rain-dance",
-        "tipo": "water",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "sunny-day",
-        "tipo": "fire",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "psych-up",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "flatter",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "facade",
-        "tipo": "normal",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "taunt",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "helping-hand",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "role-play",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "feather-dance",
-        "tipo": "flying",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "teeter-dance",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "air-cutter",
-        "tipo": "flying",
-        "power": 60,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "aerial-ace",
-        "tipo": "flying",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "covet",
-        "tipo": "normal",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "calm-mind",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "roost",
-        "tipo": "flying",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "pluck",
-        "tipo": "flying",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "tailwind",
-        "tipo": "flying",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "u-turn",
-        "tipo": "bug",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "embargo",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "air-slash",
-        "tipo": "flying",
-        "power": 75,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "defog",
-        "tipo": "flying",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "captivate",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "quiver-dance",
-        "tipo": "bug",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "round",
-        "tipo": "normal",
-        "power": 60,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "quash",
-        "tipo": "dark",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "acrobatics",
-        "tipo": "flying",
-        "power": 55,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "work-up",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "hurricane",
-        "tipo": "flying",
-        "power": 110,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon"
-        ],
-        "nome": "confide",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "scarlet-violet"
-        ],
-        "nome": "revelation-dance",
-        "tipo": "normal",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "dual-wingbeat",
-        "tipo": "flying",
-        "power": 40,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "tera-blast",
-        "tipo": "normal",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "trailblaze",
-        "tipo": "grass",
-        "power": 50,
-        "classe": "physical"
-      },
-      null
-    ],
-    "immagine": "/src/assets/sprite/pokemon/741.png",
-    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/741.png"
-  }
+  "nome": "oricorio-baile",
+  "tipo": [
+    "fire",
+    "flying"
+  ],
+  "abilita": [
+    {
+      "nome": "dancer",
+      "rarita": "comune"
+    },
+    {
+      "nome": "",
+      "rarita": "comune"
+    },
+    {
+      "nome": "",
+      "rarita": "comune"
+    }
+  ],
+  "mosse": [
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "pound",
+      "tipo": "normal",
+      "power": 40,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "double-slap",
+      "tipo": "normal",
+      "power": 15,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "swords-dance",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "fly",
+      "tipo": "flying",
+      "power": 90,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "take-down",
+      "tipo": "normal",
+      "power": 90,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "growl",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "peck",
+      "tipo": "flying",
+      "power": 35,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "toxic",
+      "tipo": "poison",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "agility",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "double-team",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "mirror-move",
+      "tipo": "flying",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "swift",
+      "tipo": "normal",
+      "power": 60,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "sky-attack",
+      "tipo": "flying",
+      "power": 140,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "rest",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "substitute",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "snore",
+      "tipo": "normal",
+      "power": 50,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "reversal",
+      "tipo": "fighting",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "protect",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "icy-wind",
+      "tipo": "ice",
+      "power": 55,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "sandstorm",
+      "tipo": "rock",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "endure",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "charm",
+      "tipo": "fairy",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "swagger",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "steel-wing",
+      "tipo": "steel",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "attract",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "sleep-talk",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "return",
+      "tipo": "normal",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "frustration",
+      "tipo": "normal",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "safeguard",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "baton-pass",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "hidden-power",
+      "tipo": "normal",
+      "power": 60,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "rain-dance",
+      "tipo": "water",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "sunny-day",
+      "tipo": "fire",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "psych-up",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "flatter",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "facade",
+      "tipo": "normal",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "taunt",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "helping-hand",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "role-play",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "feather-dance",
+      "tipo": "flying",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "teeter-dance",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "air-cutter",
+      "tipo": "flying",
+      "power": 60,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "aerial-ace",
+      "tipo": "flying",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "covet",
+      "tipo": "normal",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "calm-mind",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "roost",
+      "tipo": "flying",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "pluck",
+      "tipo": "flying",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "tailwind",
+      "tipo": "flying",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "u-turn",
+      "tipo": "bug",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "embargo",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "air-slash",
+      "tipo": "flying",
+      "power": 75,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "defog",
+      "tipo": "flying",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "captivate",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "quiver-dance",
+      "tipo": "bug",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "round",
+      "tipo": "normal",
+      "power": 60,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "quash",
+      "tipo": "dark",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "acrobatics",
+      "tipo": "flying",
+      "power": 55,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "work-up",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "hurricane",
+      "tipo": "flying",
+      "power": 110,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ],
+      "nome": "confide",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "scarlet-violet"
+      ],
+      "nome": "revelation-dance",
+      "tipo": "normal",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "dual-wingbeat",
+      "tipo": "flying",
+      "power": 40,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "tera-blast",
+      "tipo": "normal",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "trailblaze",
+      "tipo": "grass",
+      "power": 50,
+      "classe": "physical"
+    }
+  ],
+  "immagine": "/src/assets/sprite/pokemon/741.png",
+  "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/741.png"
 }

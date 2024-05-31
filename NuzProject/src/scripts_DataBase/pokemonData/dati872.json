@@ -1,230 +1,228 @@
 {
-  "872": {
-    "nome": "snom",
-    "tipo": [
-      "ice",
-      "bug"
-    ],
-    "abilita": [
-      {
-        "nome": "shield-dust",
-        "rarita": "comune"
-      },
-      {
-        "nome": "ice-scales",
-        "rarita": "nascosta"
-      },
-      {
-        "nome": "",
-        "rarita": "comune"
-      }
-    ],
-    "mosse": [
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "rest",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "substitute",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "snore",
-        "tipo": "normal",
-        "power": 50,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "powder-snow",
-        "tipo": "ice",
-        "power": 40,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "protect",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "icy-wind",
-        "tipo": "ice",
-        "power": 55,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "endure",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "attract",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "sleep-talk",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "mirror-coat",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "facade",
-        "tipo": "normal",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "icicle-spear",
-        "tipo": "ice",
-        "power": 25,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "bug-buzz",
-        "tipo": "bug",
-        "power": 90,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "bug-bite",
-        "tipo": "bug",
-        "power": 60,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield"
-        ],
-        "nome": "round",
-        "tipo": "normal",
-        "power": 60,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "struggle-bug",
-        "tipo": "bug",
-        "power": 50,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "fairy-wind",
-        "tipo": "fairy",
-        "power": 40,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "lunge",
-        "tipo": "bug",
-        "power": 80,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "scarlet-violet"
-        ],
-        "nome": "skitter-smack",
-        "tipo": "bug",
-        "power": 70,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "tera-blast",
-        "tipo": "normal",
-        "power": 80,
-        "classe": "special"
-      },
-      {
-        "gioco": [
-          "scarlet-violet"
-        ],
-        "nome": "pounce",
-        "tipo": "bug",
-        "power": 50,
-        "classe": "physical"
-      }
-    ],
-    "immagine": "/src/assets/sprite/pokemon/872.png",
-    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/872.png"
-  }
+  "nome": "snom",
+  "tipo": [
+    "ice",
+    "bug"
+  ],
+  "abilita": [
+    {
+      "nome": "shield-dust",
+      "rarita": "comune"
+    },
+    {
+      "nome": "ice-scales",
+      "rarita": "nascosta"
+    },
+    {
+      "nome": "",
+      "rarita": "comune"
+    }
+  ],
+  "mosse": [
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "rest",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "substitute",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "snore",
+      "tipo": "normal",
+      "power": 50,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "powder-snow",
+      "tipo": "ice",
+      "power": 40,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "protect",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "icy-wind",
+      "tipo": "ice",
+      "power": 55,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "endure",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "attract",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "sleep-talk",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "mirror-coat",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "facade",
+      "tipo": "normal",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "icicle-spear",
+      "tipo": "ice",
+      "power": 25,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "bug-buzz",
+      "tipo": "bug",
+      "power": 90,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "bug-bite",
+      "tipo": "bug",
+      "power": 60,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield"
+      ],
+      "nome": "round",
+      "tipo": "normal",
+      "power": 60,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "struggle-bug",
+      "tipo": "bug",
+      "power": 50,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "fairy-wind",
+      "tipo": "fairy",
+      "power": 40,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "lunge",
+      "tipo": "bug",
+      "power": 80,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "scarlet-violet"
+      ],
+      "nome": "skitter-smack",
+      "tipo": "bug",
+      "power": 70,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "tera-blast",
+      "tipo": "normal",
+      "power": 80,
+      "classe": "special"
+    },
+    {
+      "gioco": [
+        "scarlet-violet"
+      ],
+      "nome": "pounce",
+      "tipo": "bug",
+      "power": 50,
+      "classe": "physical"
+    }
+  ],
+  "immagine": "/src/assets/sprite/pokemon/872.png",
+  "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/872.png"
 }

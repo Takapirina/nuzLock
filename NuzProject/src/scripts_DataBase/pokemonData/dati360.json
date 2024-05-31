@@ -1,205 +1,203 @@
 {
-  "360": {
-    "nome": "wynaut",
-    "tipo": [
-      "psychic",
-      ""
-    ],
-    "abilita": [
-      {
-        "nome": "shadow-tag",
-        "rarita": "comune"
-      },
-      {
-        "nome": "telepathy",
-        "rarita": "nascosta"
-      },
-      {
-        "nome": "",
-        "rarita": "comune"
-      }
-    ],
-    "mosse": [
-      {
-        "gioco": [
-          "ruby-sapphire",
-          "emerald",
-          "firered-leafgreen",
-          "diamond-pearl",
-          "platinum",
-          "heartgold-soulsilver",
-          "black-white",
-          "colosseum",
-          "xd",
-          "black-2-white-2",
-          "x-y",
-          "omega-ruby-alpha-sapphire",
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "counter",
-        "tipo": "fighting",
-        "power": null,
-        "classe": "physical"
-      },
-      {
-        "gioco": [
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "amnesia",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ruby-sapphire",
-          "emerald",
-          "firered-leafgreen",
-          "diamond-pearl",
-          "platinum",
-          "heartgold-soulsilver",
-          "black-white",
-          "colosseum",
-          "xd",
-          "black-2-white-2",
-          "x-y",
-          "omega-ruby-alpha-sapphire",
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "splash",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ruby-sapphire",
-          "emerald",
-          "firered-leafgreen",
-          "diamond-pearl",
-          "platinum",
-          "heartgold-soulsilver",
-          "black-white",
-          "colosseum",
-          "xd",
-          "black-2-white-2",
-          "x-y",
-          "omega-ruby-alpha-sapphire",
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "destiny-bond",
-        "tipo": "ghost",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ruby-sapphire",
-          "emerald",
-          "firered-leafgreen",
-          "diamond-pearl",
-          "platinum",
-          "heartgold-soulsilver",
-          "black-white",
-          "colosseum",
-          "xd",
-          "black-2-white-2",
-          "x-y",
-          "omega-ruby-alpha-sapphire",
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "charm",
-        "tipo": "fairy",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ruby-sapphire",
-          "emerald",
-          "firered-leafgreen",
-          "diamond-pearl",
-          "platinum",
-          "heartgold-soulsilver",
-          "black-white",
-          "colosseum",
-          "xd",
-          "black-2-white-2",
-          "x-y",
-          "omega-ruby-alpha-sapphire",
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "safeguard",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ruby-sapphire",
-          "emerald",
-          "firered-leafgreen",
-          "diamond-pearl",
-          "platinum",
-          "heartgold-soulsilver",
-          "black-white",
-          "colosseum",
-          "xd",
-          "black-2-white-2",
-          "x-y",
-          "omega-ruby-alpha-sapphire",
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "encore",
-        "tipo": "normal",
-        "power": null,
-        "classe": "status"
-      },
-      {
-        "gioco": [
-          "ruby-sapphire",
-          "emerald",
-          "firered-leafgreen",
-          "diamond-pearl",
-          "platinum",
-          "heartgold-soulsilver",
-          "black-white",
-          "colosseum",
-          "xd",
-          "black-2-white-2",
-          "x-y",
-          "omega-ruby-alpha-sapphire",
-          "sun-moon",
-          "ultra-sun-ultra-moon",
-          "sword-shield",
-          "brilliant-diamond-and-shining-pearl"
-        ],
-        "nome": "mirror-coat",
-        "tipo": "psychic",
-        "power": null,
-        "classe": "special"
-      }
-    ],
-    "immagine": "/src/assets/sprite/pokemon/360.png",
-    "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/360.png"
-  }
+  "nome": "wynaut",
+  "tipo": [
+    "psychic",
+    ""
+  ],
+  "abilita": [
+    {
+      "nome": "shadow-tag",
+      "rarita": "comune"
+    },
+    {
+      "nome": "telepathy",
+      "rarita": "nascosta"
+    },
+    {
+      "nome": "",
+      "rarita": "comune"
+    }
+  ],
+  "mosse": [
+    {
+      "gioco": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen",
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver",
+        "black-white",
+        "colosseum",
+        "xd",
+        "black-2-white-2",
+        "x-y",
+        "omega-ruby-alpha-sapphire",
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "counter",
+      "tipo": "fighting",
+      "power": null,
+      "classe": "physical"
+    },
+    {
+      "gioco": [
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "amnesia",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen",
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver",
+        "black-white",
+        "colosseum",
+        "xd",
+        "black-2-white-2",
+        "x-y",
+        "omega-ruby-alpha-sapphire",
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "splash",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen",
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver",
+        "black-white",
+        "colosseum",
+        "xd",
+        "black-2-white-2",
+        "x-y",
+        "omega-ruby-alpha-sapphire",
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "destiny-bond",
+      "tipo": "ghost",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen",
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver",
+        "black-white",
+        "colosseum",
+        "xd",
+        "black-2-white-2",
+        "x-y",
+        "omega-ruby-alpha-sapphire",
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "charm",
+      "tipo": "fairy",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen",
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver",
+        "black-white",
+        "colosseum",
+        "xd",
+        "black-2-white-2",
+        "x-y",
+        "omega-ruby-alpha-sapphire",
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "safeguard",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen",
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver",
+        "black-white",
+        "colosseum",
+        "xd",
+        "black-2-white-2",
+        "x-y",
+        "omega-ruby-alpha-sapphire",
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "encore",
+      "tipo": "normal",
+      "power": null,
+      "classe": "status"
+    },
+    {
+      "gioco": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen",
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver",
+        "black-white",
+        "colosseum",
+        "xd",
+        "black-2-white-2",
+        "x-y",
+        "omega-ruby-alpha-sapphire",
+        "sun-moon",
+        "ultra-sun-ultra-moon",
+        "sword-shield",
+        "brilliant-diamond-and-shining-pearl"
+      ],
+      "nome": "mirror-coat",
+      "tipo": "psychic",
+      "power": null,
+      "classe": "special"
+    }
+  ],
+  "immagine": "/src/assets/sprite/pokemon/360.png",
+  "miniIcon": "/src/assets/sprite/PKMN.NET_Sprite_Resource_4/icons/360.png"
 }
