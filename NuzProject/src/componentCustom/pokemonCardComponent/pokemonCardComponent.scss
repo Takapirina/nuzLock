@@ -1,0 +1,85 @@
+$pokemon-card-bg: rgb(100, 100, 100);
+
+.pokemon-card {
+    position: absolute;
+    top: 10%;
+    left: 20rem;
+    width: 14rem;
+    background: rgba($pokemon-card-bg, 0.8);
+    border-radius: 1rem;
+
+    .name {
+       
+    }
+
+    .image {
+       
+    }
+}
+
+.pokemon-type-container {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .type{
+        width: 100%;
+        background-color: rgb(49, 175, 18);
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .bug{
+        background-color: greenyellow;
+    }
+    .electric{
+        background-color: yellow;
+    }
+    .fighting{
+        background-color: brown;
+    }
+    .ice{
+        background-color: azure;
+    }
+    .fire{
+        background-color: red;
+    }
+    .flying{
+        background-color: white;
+    }
+    .fairy{
+        background-color: pink;
+    }
+    .poison{
+        background-color: purple;
+    }
+}
+
+.pokemon-ability-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 1rem;
+
+    .single-ability-container {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+        
+    }
+
+    .ability {
+        width: 100%;
+        background-color: brown;
+        margin-left: 0.75rem;
+    }
+
+    .rarity {
+        width: 100%;
+        background-color: orange;
+        margin-right: 0.75rem;
+    }
+}
