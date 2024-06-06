@@ -40,8 +40,8 @@ async function fetchPokemonData(idPokemon) {
             ],
             abilita: [
                 { nome: pokemonData.abilities[0].ability.name, rarita: 'comune' },
-                { nome: pokemonData.abilities[1] ? pokemonData.abilities[1].ability.name : '', rarita: pokemonData.abilities[1]?.is_hidden ? 'nascosta' : 'comune' },
-                { nome: pokemonData.abilities[2] ? pokemonData.abilities[2].ability.name : '', rarita: pokemonData.abilities[2]?.is_hidden ? 'nascosta' : 'comune' },
+                { nome: pokemonData.abilities[1] ? pokemonData.abilities[1].ability.name : null , rarita: pokemonData.abilities[1]?.is_hidden ? 'nascosta' : 'comune' },
+                { nome: pokemonData.abilities[2] ? pokemonData.abilities[2].ability.name : null , rarita: pokemonData.abilities[2]?.is_hidden ? 'nascosta' : 'comune' },
             ],
             mosse: mosse.filter(mossa => mossa !== null),
             immagine: `/src/assets/sprite/pokemon/${idPokemon}.png`,

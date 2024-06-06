@@ -19,5 +19,5 @@ export interface PokemonInfo {
     abilita: Abilita[];
     mosse: Mossa[];
     immagine: string;
-    miniIcon: string;
+    miniIcon?: string;
 }
