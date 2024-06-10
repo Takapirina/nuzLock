@@ -36,7 +36,7 @@ const PokemonCard = ({ id }: { id: number }) => {
                         </>
                     )}
                 </div>
-
+                    Test
 
                 <div className='pokemon-ability-container'>  {/* Added key prop for uniqueness */}
                     {pokemonData?.abilita.map((ability) => (
