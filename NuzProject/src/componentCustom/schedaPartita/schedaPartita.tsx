@@ -1,43 +1,44 @@
-import './schedaPartita.scss'
+import React from 'react';
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { giochiPokemon } from '../../resources';
+import './schedaPartita.scss';
+import { Partita } from '../../service/models';
 
-interface Partita {
-    id: number;
-    nome: string;
-    categoria: string;
-    opzioni: {
-        opzione1: boolean;
-        opzione2: boolean;
-        opzione3: boolean;
-    };
-}
+
 interface SchedaPartitaProps {
     partita: Partita;
     onEdit: (partitaId: number, updatedPartita: Partita) => void;
 }
 
-function SchedaPartita({ partita, onEdit  }:SchedaPartitaProps) {
-    const [showModal, setShowModal] = useState(false);
+
+function SchedaPartita({ partita, onEdit }: SchedaPartitaProps) {
+    const [isEditing, setIsEditing] = useState(false);
     const [editedPartita, setEditedPartita] = useState(partita);
+    const navigate = useNavigate();
 
     const handleEdit = () => {
-        setShowModal(true);
+        setIsEditing(true);
     }
 
     const handleSave = () => {
         onEdit(partita.id, editedPartita);
-        setShowModal(false);
+        setIsEditing(false);
     }
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
-        const { name, value, type } = e.target;
+    const handleCancel = () => {
+        setEditedPartita(partita);
+        setIsEditing(false);
+    }
 
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
+        const { name, value, type, checked } = e.target as HTMLInputElement;
         if (type === 'checkbox') {
             setEditedPartita({
                 ...editedPartita,
                 opzioni: {
                     ...editedPartita.opzioni,
-                    [name]: (e.target as HTMLInputElement).checked,
+                    [name]: checked,
                 }
             });
         } else {
@@ -49,22 +50,9 @@ function SchedaPartita({ partita, onEdit  }:SchedaPartitaProps) {
     }
 
     return (
-        <>
-             <div className='scheda-partita'>
-             <h3>{partita.nome}</h3>
-            <p>Categoria: {partita.categoria}</p>
-            <p>Opzioni:</p>
-            <ul>
-                <li>Opzione 1: {partita.opzioni.opzione1 ? 'Selezionato' : 'Non selezionato'}</li>
-                <li>Opzione 2: {partita.opzioni.opzione2 ? 'Selezionato' : 'Non selezionato'}</li>
-                <li>Opzione 3: {partita.opzioni.opzione3 ? 'Selezionato' : 'Non selezionato'}</li>
-            </ul>
-            <button>Apri Partita</button>
-            <button onClick={handleEdit}>Modifica</button>
-            
-            {showModal && (
-                <div className='scheda-partita-modal'>
-                    <h2>Modifica Partita</h2>
+        <div className='scheda-partita'>
+            {isEditing ? (
+                <div className='scheda-partita-modifica'>
                     <input
                         type="text"
                         placeholder="Nome della partita"
@@ -78,45 +66,57 @@ function SchedaPartita({ partita, onEdit  }:SchedaPartitaProps) {
                         onChange={handleChange}
                     >
                         <option value="">Seleziona una categoria</option>
-                        <option value="A">Categoria A</option>
-                        <option value="B">Categoria B</option>
-                        <option value="C">Categoria C</option>
+                        {giochiPokemon.map(option => (
+                            <option key={option.value} value={option.value}>{option.label}</option>
+                        ))}
                     </select>
                     <label>
                         Opzioni:
                         <input
                             type="checkbox"
-                            name="opzione1"
-                            checked={editedPartita.opzioni.opzione1}
+                            name="nuzlock"
+                            checked={editedPartita.opzioni.nuzlock}
                             onChange={handleChange}
                         />
-                        Opzione 1
+                        Nuzlock
                     </label>
                     <label>
                         <input
                             type="checkbox"
-                            name="opzione2"
-                            checked={editedPartita.opzioni.opzione2}
+                            name="soullink"
+                            checked={editedPartita.opzioni.soullink}
                             onChange={handleChange}
                         />
-                        Opzione 2
+                        SoulLink
                     </label>
                     <label>
                         <input
                             type="checkbox"
-                            name="opzione3"
-                            checked={editedPartita.opzioni.opzione3}
+                            name="randomizer"
+                            checked={editedPartita.opzioni.randomizer}
                             onChange={handleChange}
                         />
-                        Opzione 3
+                        Randomizer
                     </label>
                     <button onClick={handleSave}>Salva</button>
-                    <button onClick={() => setShowModal(false)}>Annulla</button>
+                    <button onClick={handleCancel}>Annulla</button>
+                </div>
+            ) : (
+                <div>
+                    <h3>{partita.nome}</h3>
+                    <p>Pokemon: {giochiPokemon.find(pokemon => pokemon.value == partita.categoria)?.label}</p>
+                    <p>Opzioni:</p>
+                    <ul>
+                        <li>Nuzlock: {partita.opzioni.nuzlock ? 'Selezionato' : 'Non selezionato'}</li>
+                        <li>SoulLink: {partita.opzioni.soullink ? 'Selezionato' : 'Non selezionato'}</li>
+                        <li>Randomizer: {partita.opzioni.randomizer ? 'Selezionato' : 'Non selezionato'}</li>
+                    </ul>
+                    <button onClick={() => navigate('/partita', { state: { partita } })}>Apri Partita</button>
+                    <button onClick={handleEdit}>Modifica</button>
                 </div>
             )}
         </div>
-
-        </>
-    )
+    );
 }
+
 export default SchedaPartita;

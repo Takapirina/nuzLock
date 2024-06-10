@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { giochiPokemon } from '../../resources';
 import './creaPartita.scss'
 
 
@@ -10,18 +11,16 @@ function CreaPartita({ addPartita }: CreaPartitaProps) {
     const [showModal, setShowModal] = useState(false);
     const [partitaDetails, setPartitaDetails] = useState<any>({
         nome: '',
-        categoria: '', // Proprietà per la select
+        categoria: 0, // Proprietà per la select
         opzioni: { // Proprietà per le checkbox
             opzione1: false,
             opzione2: false,
             opzione3: false,
         }
     });
-    const categorieOptions = [
-        { value: 'A', label: 'Categoria A' },
-        { value: 'B', label: 'Categoria B' },
-        { value: 'C', label: 'Categoria C' },
-    ];
+    
+    
+    
     const handleSave = () => {
         addPartita(partitaDetails);
         setPartitaDetails({
@@ -35,6 +34,7 @@ function CreaPartita({ addPartita }: CreaPartitaProps) {
         });
         setShowModal(false);
     }
+
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
         const { name, value, type } = e.target;
 
@@ -75,37 +75,37 @@ function CreaPartita({ addPartita }: CreaPartitaProps) {
                         onChange={handleChange}
                     >
                         <option value="">Seleziona una categoria</option>
-                        {categorieOptions.map(option => (
+                        {giochiPokemon .map(option => (
                             <option key={option.value} value={option.value}>{option.label}</option>
                         ))}
                     </select>
                     <label>
-                        Opzioni:
+                        Sfide:
                         <input
                             type="checkbox"
-                            name="opzione1"
-                            checked={partitaDetails.opzioni.opzione1}
+                            name="nuzlock"
+                            checked={partitaDetails.opzioni.nuzlock}
                             onChange={handleChange}
                         />
-                        Opzione 1
+                        Nuzlock
                     </label>
                     <label>
                         <input
                             type="checkbox"
-                            name="opzione2"
-                            checked={partitaDetails.opzioni.opzione2}
+                            name="soullink"
+                            checked={partitaDetails.opzioni.soullink}
                             onChange={handleChange}
                         />
-                        Opzione 2
+                        SoulLink
                     </label>
                     <label>
                         <input
                             type="checkbox"
-                            name="opzione3"
-                            checked={partitaDetails.opzioni.opzione3}
+                            name="randomizer"
+                            checked={partitaDetails.opzioni.randomizer}
                             onChange={handleChange}
                         />
-                        Opzione 3
+                        Randomizer
                     </label>
                     <button onClick={handleSave}>Salva</button>
                     <button onClick={() => setShowModal(false)}>Annulla</button>

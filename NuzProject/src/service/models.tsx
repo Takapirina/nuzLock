@@ -21,3 +21,14 @@ export interface PokemonInfo {
     immagine: string;
     miniIcon?: string;
 }
+
+export interface Partita {
+    id: number;
+    nome: string;
+    categoria: number;
+    opzioni: {
+        nuzlock: boolean;
+        soullink: boolean;
+        randomizer: boolean;
+    };
+}

@@ -1,16 +1,14 @@
 .scheda-partita{
-    width: 45rem;
-    height: 15rem;
-    border-radius: 1rem;
-    background-color: blue;
-}
-.scheda-partita-modal{
     display: flex;
     flex-direction: column;
-    padding: 1vh;
-    position: absolute;
-    width: 40vw;
-    background-color: purple;  
-    left: 50vh;
-    top:10vh;
+    width: 45rem;
+    border-radius: 1rem;
+    background-color: blue;
+    margin-bottom: 2vh;
+
+}
+.scheda-partita-modifica{
+    display: flex;
+    flex-direction: column;
+
 }
