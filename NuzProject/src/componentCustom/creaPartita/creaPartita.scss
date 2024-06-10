@@ -1,0 +1,15 @@
+.crea-partita{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    background-color: green;
+}
+.crea-partita-modal{
+    display: flex;
+    flex-direction: column;
+    padding: 1vh;
+    position: absolute;
+    width: 40vw;
+    background-color: purple;  
+    left: 50vh;
+}
