@@ -30,6 +30,7 @@ async function fetchPokemonData(idPokemon) {
             }
         });
 
+        
         const mosse = await Promise.all(movesPromises);
 
         const pokemonInfo = {
