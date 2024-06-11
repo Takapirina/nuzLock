@@ -32,3 +32,24 @@ export interface Partita {
         randomizer: boolean;
     };
 }
+
+export interface Partita {
+    id: number;
+}
+
+export interface FileData {
+    name: string;
+    sprite: number;
+    squadra: PokemonEasy[];
+    badges: Badge[];
+}
+
+export interface Badge {
+    id: number;
+    defeat:boolean;
+}
+
+export interface PokemonEasy {
+    nome: string;
+    specie: number;
+}
