@@ -1,12 +1,15 @@
+import { ReactNode } from "react";
+
 interface ComponentGameProps{
     className?: string;
+    children?: ReactNode;
 }
 
-function ComponentGame({className}:ComponentGameProps) {
+function ComponentGame({className,children}:ComponentGameProps) {
     return (
         <>
             <div className={className}>
-                Game
+                {children? children: "game"}
             </div>
         </>
     )

@@ -1,13 +1,17 @@
 import { useEffect, useState } from 'react';
 import ComponentMenu from '../../component/componentMenu';
 import './widgetPokedex.scss'
-import { PokemonGameJSON, PokemonPokedex } from '../../service/models';
+import { PokemonPokedex } from '../../service/models';
 import pokemonGameData from '../../scripts_DataBase/versionData/version4.json';
+import PokemonCell from '../pokemonCell/pokemonCell';
+
 interface WidgetPokedexProps {
     className?: string;
+    onPokemonSelect: (pokemon: PokemonPokedex) => void;
+    selectedPokemon: PokemonPokedex | null; // Aggiunta della prop selectedPokemon
 }
 
-function WidgetPokedex({ className }: WidgetPokedexProps) {
+function WidgetPokedex({ className, onPokemonSelect, selectedPokemon }: WidgetPokedexProps) {
     // Initialize state variables
     const [pokedex, setPokedex] = useState<PokemonPokedex[] | null>(null);
     const [currentPage, setCurrentPage] = useState(0);
@@ -53,15 +57,21 @@ function WidgetPokedex({ className }: WidgetPokedexProps) {
         setCurrentPage((prevPage) => Math.min(prevPage + 1, totalPages - 1));
     };
 
-    
+    const handleOpenModal = (pokemon: PokemonPokedex) => {
+        onPokemonSelect(pokemon); // Passa il pokemon selezionato a InterfacciaPartita
+    };
+
     return (
         <div className={`pokedex-component`}>
             <ComponentMenu className={className}>
                 {currentItems.map((pokemon: PokemonPokedex, index: number) => (
-                    <div className='pokemon-cell' key={pokemon.id}>
-                        <div className='pokemon-name'>{pokemon.name}</div>
-                        <img src= {`src/assets/sprite/pokemon/versions/generation-vii/icons/${pokemon.id}.png`}/>
-                    </div>
+                     <PokemonCell
+                        key={pokemon.id}
+                        className="pokemon-cell"
+                        pokemon={pokemon}
+                        onOpenModal={handleOpenModal}
+                        onPokemonSelect={onPokemonSelect}
+                    />
                 ))}
             </ComponentMenu>
             <div className="navigation-buttons">

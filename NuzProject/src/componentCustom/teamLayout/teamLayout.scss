@@ -1,0 +1,63 @@
+.team-layout{
+    display: flex;
+    flex-direction: column;
+}
+.test-flex{
+    display: flex;
+}
+.pokemon-info-container{
+    display: flex;
+
+
+
+    .pokemon-info{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        width: 75%;
+
+
+        .info-container{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        
+        .abilita-container{
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+
+            .abilita{
+                display: flex;
+                flex-direction: column;
+
+                .rarity{
+                    font-size: 12px;
+                }
+            }
+        }
+        .tipo-container{
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+        }
+    }
+}
+
+.mosse-container{
+    width: 30%;
+}
+.mosse-list {
+    width: 100%;
+    max-height: 300px; // Altezza massima per visualizzare le prime 10 mosse
+    overflow-y: auto; // Abilita la scrollbar se le mosse superano l'altezza massima
+    .mossa{
+       display: grid;
+       grid: 1fr/ repeat(3, 1fr);  
+    }
+}

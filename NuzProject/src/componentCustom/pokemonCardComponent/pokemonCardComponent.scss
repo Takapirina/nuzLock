@@ -2,7 +2,7 @@ $pokemon-card-bg: rgb(100, 100, 100);
 
 .pokemon-card {
     position: absolute;
-    top: 10%;
+    top: -200px;
     left: 20rem;
     width: 14rem;
     background: rgba($pokemon-card-bg, 0.8);
