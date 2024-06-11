@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Pokemon';
+    src: url('../../assets/fonts/Pokemon Classic Regular.woff') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.cardPokemonParty {
+    width: 150px;
+    height: 150px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-container {
+    position: relative; /* Contesto di posizionamento per le immagini sovrapposte */
+    width: 120px;
+    height: 120px;
+}
+
+.image-container img {
+    position: absolute; /* Posizionamento assoluto per sovrapporre le immagini */
+    top: 0;
+    left: 0;
+    height: 120px;
+    width: 120px;
+    z-index: 3;
+}
+
+.image-container img.pokeball {
+    z-index: 2; /* Posiziona l'immagine SVG sotto l'altra immagine */
+    transform: rotate(-35deg);
+    opacity: 0.3;
+}
+
+.cardPokemonParty p {
+    margin: 0px;
+    font-family: 'Pokemon';
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+}
+

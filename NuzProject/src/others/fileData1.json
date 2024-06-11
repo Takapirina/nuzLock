@@ -1,0 +1,98 @@
+{
+    "name" : "GianKun95",
+    "sprite" : 1,
+    "squadra" : [
+        {
+            "nome" : "concetta",
+            "specie" : 96
+        },
+        {
+            "nome" : "piedino",
+            "specie" : 152
+        },
+        {
+            "nome": "balenottera",
+            "specie": 321
+        },
+        {
+            "nome" : "fiocco",
+            "specie" : 615
+        },
+        {
+            "nome" : "Arborea",
+            "specie" : 345
+        },
+        {
+            "nome" : "Boccinaro",
+            "specie" : 42
+        }
+    ],
+    "badges" : [
+        {
+            "id":9,
+            "defeat" : true
+        },
+        {
+            "id":10,
+            "defeat" : true
+        },
+        {
+            "id":11,
+            "defeat" : true
+        },
+        {
+            "id":12,
+            "defeat" : true
+        },
+        {
+            "id":13,
+            "defeat" : true
+        },
+        {
+            "id":14,
+            "defeat" : true
+        },
+        {
+            "id":15,
+            "defeat" : true
+        },
+        {
+            "id":16,
+            "defeat" : true
+        },
+        {
+            "id":9,
+            "defeat" : true
+        },
+        {
+            "id":10,
+            "defeat" : true
+        },
+        {
+            "id":11,
+            "defeat" : true
+        },
+        {
+            "id":12,
+            "defeat" : false
+        },
+        {
+            "id":13,
+            "defeat" : false
+        },
+        {
+            "id":14,
+            "defeat" : false
+        },
+        {
+            "id":15,
+            "defeat" : false
+        },
+        {
+            "id":16,
+            "defeat" : false
+        }
+    ],
+    "game" : "gold"
+
+}
