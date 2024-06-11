@@ -25,39 +25,78 @@ async function fetchVersion(idVersione) {
     const gameData = await fetchJson(versionUrl);
 
     const gameName = gameData.name;
-    // Ottieni i dettagli dei Pokedex
     const versionGroupName = gameData.version_group.name;
-
     const versionGroupDetails = await fetchJson(gameData.version_group.url);
-
     const generation = versionGroupDetails.generation.name;
 
-    const generationDetails = await fetchJson(
-      versionGroupDetails.generation.url
-    );
+    const regionData = [];
 
-    const regionName = generationDetails.main_region.name;
+    for (const region of versionGroupDetails.regions) {
+      const regionInfo = [];
+      const regionName = { "regione": region.name };
+      regionInfo.push(regionName);
 
-   // const regionDetails = await fetchJson(generationDetails.main_region.url);
+      const regionDetails = await fetchJson(region.url);
+
+      for (const location of regionDetails.locations) {
+        const locationInfo = [];
+        const locationName = { "percorso": location.name };
+        let methodEncounter = {};
+        locationInfo.push(locationName);
+
+        const locationDetails = await fetchJson(location.url);
+
+        if (locationDetails.areas) {
+          for (const area of locationDetails.areas) {
+            const locationAreaDetails = await fetchJson(area.url);
+
+            for (const pokemonEncounter of locationAreaDetails.pokemon_encounters) {
+
+              for (const pokemonInGame of pokemonEncounter.version_details) {
+                if (pokemonInGame.version.name == gameName) {
+                  const pokemonName = pokemonEncounter.pokemon.name;
+
+                  for (const encounterDetail of pokemonInGame.encounter_details) {
+                    const chance = encounterDetail.chance + " %";
+                    const methodName = encounterDetail.method.name;
+
+                    if (!methodEncounter[methodName]) {
+                      methodEncounter[methodName] = [];
+                    }
+
+                    methodEncounter[methodName].push({ pokemon: pokemonName, chance: chance });
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        const encounters = [];
+        for (const [method, pokemons] of Object.entries(methodEncounter)) {
+          encounters.push({ metodo: method, pokemons: pokemons });
+        }
+
+        locationInfo.push({ incontri: encounters });
+        regionInfo.push(locationInfo);
+      }
+      regionData.push(regionInfo);
+    }
 
     const pokedexDetails = await fetchJson(versionGroupDetails.pokedexes[0].url);
-
     const pokemonEntries = pokedexDetails.pokemon_entries;
 
     const pokemonData = [];
-
     for (const pokemon of pokemonEntries) {
-        console.log(pokemon.pokemon_species.url)
       const pokemonSpeciesUrl = pokemon.pokemon_species.url;
-      
       const pokemonSpecies = await fetchJson(pokemonSpeciesUrl);
 
-      const pokemonName = pokemon.pokemon_species.name;
-      const pokemonId = pokemonSpecies.id; 
+      const pokemonName = pokemonSpecies.name;
+      const pokemonId = pokemonSpecies.id;
 
       pokemonData.push({
         name: pokemonName,
-        id: pokemonId
+        id: pokemonId,
       });
     }
 
@@ -65,10 +104,8 @@ async function fetchVersion(idVersione) {
       gioco: gameName,
       versione: versionGroupName,
       generazione: generation,
-      regione: regionName,
-      pokemon_list: pokemonData
-      // pokedex: pokedexes
-      // percorsi: percorsi,
+      regioni: regionData,
+      pokemon_list: pokemonData,
     };
 
     console.log(infoVersione);
@@ -79,11 +116,8 @@ async function fetchVersion(idVersione) {
     const filePath = path.join(dirPath, `version${idVersione}.json`);
 
     await fs.mkdir(dirPath, { recursive: true });
-
     await fs.writeFile(filePath, jsonData, "utf8");
-    console.log(
-      `File JSON per versione ${idVersione} creato con successo nella cartella ${dirPath}`
-    );
+    console.log(`File JSON per versione ${idVersione} creato con successo nella cartella ${dirPath}`);
   } catch (err) {
     console.error(`Errore nel fetch della versione con ID ${idVersione}:`, err);
   }
