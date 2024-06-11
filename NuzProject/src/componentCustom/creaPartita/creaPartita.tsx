@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { giochiPokemon } from '../../resources';
 import './creaPartita.scss'
 
-
 interface CreaPartitaProps {
     addPartita: (partitaDetails: any) => void;
 }
@@ -18,9 +17,7 @@ function CreaPartita({ addPartita }: CreaPartitaProps) {
             opzione3: false,
         }
     });
-    
-    
-    
+
     const handleSave = () => {
         addPartita(partitaDetails);
         setPartitaDetails({
@@ -57,7 +54,7 @@ function CreaPartita({ addPartita }: CreaPartitaProps) {
     return (
         <>
             <div className='crea-partita' onClick={() => setShowModal(true)}>
-                Crea Partita
+                <h3>Crea Partita</h3>
             </div>
 
             {showModal && (
@@ -75,7 +72,7 @@ function CreaPartita({ addPartita }: CreaPartitaProps) {
                         onChange={handleChange}
                     >
                         <option value="">Seleziona una categoria</option>
-                        {giochiPokemon .map(option => (
+                        {giochiPokemon.map(option => (
                             <option key={option.value} value={option.value}>{option.label}</option>
                         ))}
                     </select>

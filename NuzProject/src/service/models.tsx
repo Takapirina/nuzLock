@@ -22,6 +22,38 @@ export interface PokemonInfo {
     miniIcon?: string;
 }
 
+export interface PokemonPokedex {
+    id: number;
+    name: string;
+}
+
+export interface PokemonGameJSON {
+    gioco: string;
+    versione: string;
+    generazione: string;
+    regioni: Regione[];
+    pokemon_list: PokemonPokedex[];
+}
+
+export interface Regione {
+ percorso: Percorso;
+ incontri:Incontri;
+}
+
+export interface Percorso {
+    incontro: Incontri[];
+}
+
+export interface Incontri {
+    metodo: string;
+    pokemons: PokemonChance[];
+}
+
+export interface PokemonChance {
+    pokemon: string;
+    chance: string;
+}
+
 export interface Partita {
     id: number;
     nome: string;

@@ -1,4 +1,3 @@
-import React from 'react';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { giochiPokemon } from '../../resources';
@@ -9,10 +8,11 @@ import { Partita } from '../../service/models';
 interface SchedaPartitaProps {
     partita: Partita;
     onEdit: (partitaId: number, updatedPartita: Partita) => void;
+    onDelete: (partitaId: number) => void;
 }
 
 
-function SchedaPartita({ partita, onEdit }: SchedaPartitaProps) {
+function SchedaPartita({ partita, onEdit, onDelete }: SchedaPartitaProps) {
     const [isEditing, setIsEditing] = useState(false);
     const [editedPartita, setEditedPartita] = useState(partita);
     const navigate = useNavigate();
@@ -24,6 +24,9 @@ function SchedaPartita({ partita, onEdit }: SchedaPartitaProps) {
     const handleSave = () => {
         onEdit(partita.id, editedPartita);
         setIsEditing(false);
+    }
+    const handleDelete = () => {
+        onDelete(partita.id);
     }
 
     const handleCancel = () => {
@@ -102,17 +105,22 @@ function SchedaPartita({ partita, onEdit }: SchedaPartitaProps) {
                     <button onClick={handleCancel}>Annulla</button>
                 </div>
             ) : (
-                <div>
+                <div className='scheda-non-editable'>
                     <h3>{partita.nome}</h3>
                     <p>Pokemon: {giochiPokemon.find(pokemon => pokemon.value == partita.categoria)?.label}</p>
-                    <p>Opzioni:</p>
-                    <ul>
-                        <li>Nuzlock: {partita.opzioni.nuzlock ? 'Selezionato' : 'Non selezionato'}</li>
-                        <li>SoulLink: {partita.opzioni.soullink ? 'Selezionato' : 'Non selezionato'}</li>
-                        <li>Randomizer: {partita.opzioni.randomizer ? 'Selezionato' : 'Non selezionato'}</li>
-                    </ul>
-                    <button onClick={() => navigate('/partita', { state: { partita } })}>Apri Partita</button>
-                    <button onClick={handleEdit}>Modifica</button>
+                    <div className='option'>
+                        <p>Opzioni:</p>
+                        <ul>
+                            <li>Nuzlock: {partita.opzioni.nuzlock ? 'Selezionato' : 'Non selezionato'}</li>
+                            <li>SoulLink: {partita.opzioni.soullink ? 'Selezionato' : 'Non selezionato'}</li>
+                            <li>Randomizer: {partita.opzioni.randomizer ? 'Selezionato' : 'Non selezionato'}</li>
+                        </ul>
+                    </div>
+                    <div className='button-action'>
+                        <button onClick={() => navigate('/partita', { state: { partita } })}>Apri Partita</button>
+                        <button onClick={handleEdit}>Modifica</button>
+                        <button onClick={handleDelete}>Elimina</button>
+                    </div>
                 </div>
             )}
         </div>

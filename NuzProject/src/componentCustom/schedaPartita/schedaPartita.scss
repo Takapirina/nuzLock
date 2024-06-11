@@ -7,6 +7,23 @@
     margin-bottom: 2vh;
 
 }
+.scheda-non-editable{
+    width: auto;
+    height: auto;
+    border-radius: 1rem;
+    background-color: orange;
+    display:flex;
+    flex-direction: column;
+    padding-left: 2vh;
+    padding-bottom: 1vh;
+    .option{
+    
+    }
+    .button-action{
+       display: flex;
+      justify-content: space-evenly;
+    }
+}
 .scheda-partita-modifica{
     display: flex;
     flex-direction: column;

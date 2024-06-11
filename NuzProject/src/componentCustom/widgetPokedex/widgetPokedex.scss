@@ -1,0 +1,27 @@
+.pokedex-component {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border-radius: 1rem;
+    border: 1px solid grey;
+    .pokemon-cell{
+        display: flex;
+        
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 12px;
+        .pokemon-name{
+            
+        }
+    }
+
+    .navigation-buttons {
+        display: flex;
+        justify-content: space-between;
+        button{
+            border-radius: 0.5rem;
+        }
+    }
+}

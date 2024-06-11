@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import CreaPartita from '../../componentCustom/creaPartita/creaPartita';
 import SchedaPartita from '../../componentCustom/schedaPartita/schedaPartita';
 import { Partita } from '../../service/models';
@@ -35,6 +35,11 @@ function Homepage() {
         setPartite(updatedPartite);
         localStorage.setItem('partite', JSON.stringify(updatedPartite));
     }
+    const handleDeletePartita = (partitaId: number) => {
+        const updatedPartite = partite.filter(partita => partita.id !== partitaId);
+        setPartite(updatedPartite);
+        localStorage.setItem('partite', JSON.stringify(updatedPartite));
+    }
 
     return (
         <div className='homepage'>
@@ -44,7 +49,10 @@ function Homepage() {
                     <SchedaPartita
                         key={partita.id}
                         partita={partita}
-                        onEdit={handleEditPartita} />
+                        onEdit={handleEditPartita}
+                        onDelete={handleDeletePartita}
+                         />
+                        
                 ))}
             </div>
         </div>
