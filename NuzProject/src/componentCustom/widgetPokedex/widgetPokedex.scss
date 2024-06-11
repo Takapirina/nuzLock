@@ -1,0 +1,17 @@
+.pokedex-component {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: gray;
+    border-radius: 1rem;
+
+
+    .navigation-buttons {
+        display: flex;
+        justify-content: space-between;
+        button{
+            border-radius: 0.5rem;
+        }
+    }
+}

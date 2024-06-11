@@ -22,6 +22,11 @@ export interface PokemonInfo {
     miniIcon?: string;
 }
 
+export interface PokemonPokedex{
+    id: number;
+    nome: string;
+}
+
 export interface Partita {
     id: number;
     nome: string;
