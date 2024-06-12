@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'db';
+    src: url('../../../assets/fonts/pokemon-dp-pro.ttf') format('truetype');
+}
+
+.ora {
+    color: #384f31;
+    font-family: 'db';
+    position: relative;
+    top: -8%;
+    font-size: 8rem;
+}
+
+.contenitoreWidgetOrologio {
+    border-radius: 15px;
+    background: #70af70;
+    height: 100%;
+    width: 100%;
+    background-image: url('../../../assets/sprite/other/others/Widjets/backgrounfPokekron.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blinking-colon {
+    animation: blink 2s step-start infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
