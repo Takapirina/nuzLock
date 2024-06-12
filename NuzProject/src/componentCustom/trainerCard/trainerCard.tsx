@@ -20,7 +20,20 @@ const TrainerCard: React.FC<Partita> = ({ id }) => {
     }, [id]);
 
     return (
-        <div className="card">
+        <div className="infografica">
+            <div className="tagContenitore">
+            <p>{dati?.game}</p>
+            <div className="GamplaySaveData">
+                <p>{dati?.start}</p>
+                <p>{dati?.last}</p>
+                <p> ✖ delete</p> {/* aggiungere pulsante elimina*/}
+                <p> 🖉 modify</p> {/* aggiungere pulsante modifica*/}
+            </div>
+            <div className="tagMode">
+                <p>{dati?.mode}</p>
+            </div>
+            </div>
+            <div className="card">
             <div className="allenatore">
                 <img src={`/src/assets/sprite/other/Trainer/${dati?.sprite}.png`} alt="clown" className="allenatore-clown" />
                 <p>{dati?.name}</p>
@@ -33,8 +46,6 @@ const TrainerCard: React.FC<Partita> = ({ id }) => {
                 {dati?.badges.map((badge) =>(<img src={`/src/assets/sprite/other/badge/${badge.id}.png`} alt="" className="badge" style={{filter: badge.defeat ? 'none' : 'grayscale(100%)'}}/>))}
             </div>
             </div>
-            <div className="partita">
-                <p>Partita {id}</p>
             </div>
         </div>
     );

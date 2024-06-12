@@ -93,6 +93,8 @@
             "defeat" : false
         }
     ],
-    "game" : "gold"
-
+    "game" : "gold",
+    "start" : "lun 10 giu 2024",
+    "last" : "mar 11 giu 2024",
+    "mode" : "soulLink"
 }

@@ -74,6 +74,10 @@ export interface FileData {
     sprite: number;
     squadra: PokemonEasy[];
     badges: Badge[];
+    game: number;
+    start: string;
+    last: string;
+    mode: string;
 }
 
 export interface Badge {

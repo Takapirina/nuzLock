@@ -60,3 +60,30 @@
     height: 50px;
     width: 50px;
 }
+
+.GamplaySaveData{
+    display: flex;
+    margin: 0px 100px;
+    gap: 10px;
+}
+
+.tagContenitore p {
+    padding: .5rem;
+    border-radius: 5px;
+    background-color: #fff4;
+}
+
+.infografica{
+    width: min-content;
+    font-family: 'pokemon';
+}
+
+.graficaGioco{
+    display: flex;
+    justify-content: center;
+}
+
+.tagContenitore{
+    display: flex;
+    justify-content: space-evenly;
+}
